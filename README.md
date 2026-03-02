@@ -7,7 +7,7 @@ I am currently building a strong technical foundation in software development.
 My long-term academic and professional interests lie in the fields of **Artificial Intelligence** and **Cybersecurity**. 
 
 ### 🔵 Technical Proficiencies & Focus
-* **Programming Languages:** C, C++
+* **Programming Languages:** C, C++, Python
 * **Web Technologies:** HTML, CSS
 * **Core Studies:** Algorithms, Data Structures, and Systems Architecture
 
