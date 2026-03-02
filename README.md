@@ -1,16 +1,21 @@
-## Hi there 👋
+# Md. Tahsan Masud
 
-<!--
-**tahsan-masud/tahsan-masud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am a Computer Science and Engineering undergraduate student at North South University.
 
-Here are some ideas to get you started:
+I am currently building a strong technical foundation in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My long-term academic and professional interests lie in the fields of **Artificial Intelligence** and **Cybersecurity**. 
+
+### 💻 Technical Proficiencies & Focus
+* **Programming Languages:** C, C++
+* **Web Technologies:** HTML, CSS
+* **Core Studies:** Algorithms, Data Structures, and Systems Architecture
+
+### 🚀 Academic Goals
+* Developing scalable software solutions.
+* Preparing for graduate-level research in AI and secure systems.
+* Collaborating on open-source projects and team-based engineering challenges.
+
+### 📫 Connect with Me
+* **Email:** tahsanmasud05@gmail.com
+* **LinkedIn:** linkedin.com/in/tahsan-masud
