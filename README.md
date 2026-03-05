@@ -10,19 +10,24 @@ My long-term academic and professional interests lie in the fields of Artificial
 
 <h3 align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tahsan-masud&theme=vitesse&border_radius=5" alt="GitHub Streak" /></a> </h3>
 
-### <img src="spinning-bullets.svg" width="25" align="center"> Technical Proficiencies & Focus
-* **Programming Languages:** C, C++, Python
-* **Web Technologies:** HTML, CSS
-* **Core Studies:** Algorithms, Data Structures, and Systems Architecture
+### <h3 align="center"> <ins>Technical Proficiencies & Focus</ins> </h3>
+<img src="spinning-bullets.svg" width="20" align="center"> **Programming Languages:** C, C++, Python
 
-### <img src="spinning-bullets.svg" width="25" align="center"> Academic Goals
-* Developing scalable software solutions.
-* Preparing for graduate-level research in AI and secure systems.
-* Collaborating on open-source projects and team-based engineering challenges.
+<img src="spinning-bullets.svg" width="20" align="center"> **Web Technologies:** HTML, CSS
 
-### <img src="spinning-bullets.svg" width="25" align="center"> Connect with Me
-* **Email:** tahsanmasud05@gmail.com
-* **LinkedIn:** linkedin.com/in/tahsan-masud
+<img src="spinning-bullets.svg" width="20" align="center"> **Core Studies:** Algorithms, Data Structures, and Systems Architecture
+
+### <h3 align="center"> <ins>Academic Goals</ins> </h3>
+<img src="spinning-bullets.svg" width="20" align="center"> Developing scalable software solutions.
+
+<img src="spinning-bullets.svg" width="20" align="center"> Preparing for graduate-level research in AI and secure systems.
+
+<img src="spinning-bullets.svg" width="20" align="center"> Collaborating on open-source projects and team-based engineering challenges.
+
+### <h3 align="center"> <ins>Connect with Me</ins> </h3>
+<img src="spinning-bullets.svg" width="20" align="center"> **Email:** tahsanmasud05@gmail.com
+
+<img src="spinning-bullets.svg" width="20" align="center"> **LinkedIn:** linkedin.com/in/tahsan-masud
 
 <h1 align="center"> <picture>
 <source
