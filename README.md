@@ -10,6 +10,8 @@ My long-term academic and professional interests lie in the fields of Artificial
 
 <h3 align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tahsan-masud&theme=vitesse&border_radius=5" alt="GitHub Streak" /></a> </h3>
 
+<br>
+
 <img align="right" src="campfire.gif" width="325" hspace="40">
 
 ### TECHNICAL PROFICIENCIES & FOCUS:
