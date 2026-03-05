@@ -10,17 +10,17 @@ My long-term academic and professional interests lie in the fields of Artificial
 
 <h3 align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tahsan-masud&theme=vitesse&border_radius=5" alt="GitHub Streak" /></a> </h3>
 
-### 🔵 Technical Proficiencies & Focus
+### <img src="spinning-bullets.svg" width="25" align="center"> Technical Proficiencies & Focus
 * **Programming Languages:** C, C++, Python
 * **Web Technologies:** HTML, CSS
 * **Core Studies:** Algorithms, Data Structures, and Systems Architecture
 
-### 🔴 Academic Goals
+### <img src="spinning-bullets.svg" width="25" align="center"> Academic Goals
 * Developing scalable software solutions.
 * Preparing for graduate-level research in AI and secure systems.
 * Collaborating on open-source projects and team-based engineering challenges.
 
-### 🟢 Connect with Me
+### <img src="spinning-bullets.svg" width="25" align="center"> Connect with Me
 * **Email:** tahsanmasud05@gmail.com
 * **LinkedIn:** linkedin.com/in/tahsan-masud
 
