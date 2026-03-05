@@ -14,23 +14,23 @@ My long-term academic and professional interests lie in the fields of Artificial
 
 <img align="right" src="campfire.gif" width="300" hspace="55">
 
-<img src="spinning-bullets.svg" width="20" align="center"> **Programming Languages:** C, C++, Python
+<img src="spinning-bullets.svg" width="20" align="center"> **Programming Languages: C, C++, Python**
 
-<img src="spinning-bullets.svg" width="20" align="center"> **Web Technologies:** HTML, CSS
+<img src="spinning-bullets.svg" width="20" align="center"> **Web Technologies: HTML, CSS**
 
-<img src="spinning-bullets.svg" width="20" align="center"> **Core Studies:** Algorithms, Data Structures, and Systems Architecture
+<img src="spinning-bullets.svg" width="20" align="center"> **Core Studies: Algorithms, Data Structures, and Systems Architecture**
 
 ### ACADEMIC FOCUS:
-<img src="spinning-bullets.svg" width="20" align="center"> Developing scalable software solutions.
+<img src="spinning-bullets.svg" width="20" align="center"> **Developing scalable software solutions.**
 
-<img src="spinning-bullets.svg" width="20" align="center"> Preparing for graduate-level research in AI and secure systems.
+<img src="spinning-bullets.svg" width="20" align="center"> **Preparing for graduate-level research in AI and secure systems.**
 
-<img src="spinning-bullets.svg" width="20" align="center"> Collaborating on open-source projects and team-based challenges.
+<img src="spinning-bullets.svg" width="20" align="center"> **Collaborating on open-source projects and team-based challenges.**
 
 ### CONNECT WITH ME:
-<img src="spinning-bullets.svg" width="20" align="center"> **Email:** tahsanmasud05@gmail.com
+<img src="spinning-bullets.svg" width="20" align="center"> **Email: tahsanmasud05@gmail.com**
 
-<img src="spinning-bullets.svg" width="20" align="center"> **LinkedIn:** linkedin.com/in/tahsan-masud
+<img src="spinning-bullets.svg" width="20" align="center"> **LinkedIn: https://linkedin.com/in/tahsan-masud**
 
 <h1 align="center"> <picture>
 <source
