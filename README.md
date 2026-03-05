@@ -12,7 +12,7 @@ My long-term academic and professional interests lie in the fields of Artificial
 
 ### TECHNICAL PROFICIENCIES & FOCUS:
 
-<img align="right" src="campfire.gif" width="300" hspace="70">
+<img align="right" src="campfire.gif" width="300" hspace="60">
 
 <img src="spinning-bullets.svg" width="20" align="center"> **Programming Languages:** C, C++, Python
 
