@@ -1,8 +1,9 @@
-<svg width="400" height="150" xmlns="http://www.w3.org/2000/svg">
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="splitColor" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="50%" stop-color="#32CD32" /> <stop offset="50%" stop-color="#90EE90" /> </linearGradient>
-
+      <stop offset="50%" stop-color="#32CD32" />
+      <stop offset="50%" stop-color="#90EE90" />
+    </linearGradient>
     <g id="spinning-bullet">
       <circle cx="50" cy="20" r="18" fill="url(#splitColor)" stroke="#006400" stroke-width="7" />
       <circle cx="80" cy="50" r="18" fill="#90EE90" stroke="#006400" stroke-width="7" />
@@ -10,44 +11,9 @@
       <circle cx="20" cy="50" r="18" fill="#32CD32" stroke="#006400" stroke-width="7" />
     </g>
   </defs>
-
   <style>
-    /* Continuous 360-degree rotation */
-    @keyframes spin {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
-
-    /* Apply the spin to the entire bullet, rotating around its center */
-    #spinning-bullet {
-      transform-origin: 50px 50px;
-      animation: spin 1s linear infinite; 
-    }
-
-    /* Text Styling */
-    .text-body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      font-size: 16px;
-      font-weight: bold; /* Makes text bold in both modes */
-      
-      /* --- Default: Light Mode Colors --- */
-      fill: #24292e; /* Classic GitHub standard dark text */
-    }
-
-    /* --- Dynamic Switch: Dark Mode Colors --- */
-    @media (prefers-color-scheme: dark) {
-      .text-body {
-        fill: #ffffff; /* White text for dark backgrounds */
-      }
-    }
+    @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+    #spinning-bullet { transform-origin: 50px 50px; animation: spin 1s linear infinite; }
   </style>
-
-  <use href="#spinning-bullet" transform="translate(10, 15) scale(0.2)" />
-  <text x="45" y="30" class="text-body">Programming Languages: C, C++, Python</text>
-
-  <use href="#spinning-bullet" transform="translate(10, 55) scale(0.2)" />
-  <text x="45" y="70" class="text-body">Web Technologies: HTML, CSS</text>
-
-  <use href="#spinning-bullet" transform="translate(10, 95) scale(0.2)" />
-  <text x="45" y="110" class="text-body">Core Studies: Algorithms, Data Structures, and Systems Architecture</text>
+  <use href="#spinning-bullet" />
 </svg>
