@@ -1,27 +1,43 @@
 <svg width="400" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="splitColor" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="50%" stop-color="#32CD32" /> <stop offset="50%" stop-color="#90EE90" /> </linearGradient>
+
+    <g id="spinning-bullet">
+      <circle cx="50" cy="20" r="18" fill="url(#splitColor)" stroke="#006400" stroke-width="7" />
+      <circle cx="80" cy="50" r="18" fill="#90EE90" stroke="#006400" stroke-width="7" />
+      <circle cx="50" cy="80" r="18" fill="url(#splitColor)" stroke="#006400" stroke-width="7" />
+      <circle cx="20" cy="50" r="18" fill="#32CD32" stroke="#006400" stroke-width="7" />
+    </g>
+  </defs>
+
   <style>
-    /* Define the animation */
-    @keyframes fadeIn {
-      0% { opacity: 0; transform: translateX(-10px); }
-      100% { opacity: 1; transform: translateX(0); }
+    /* Continuous 360-degree rotation */
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
     }
 
-    /* Apply styles to the text */
-    .bullet {
+    /* Apply the spin to the entire bullet, rotating around its center */
+    #spinning-bullet {
+      transform-origin: 50px 50px;
+      animation: spin 1s linear infinite; /* Change 1s to 0.5s for double speed */
+    }
+
+    /* Static Text Styling */
+    .text-body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
       font-size: 16px;
-      fill: #24292e; /* GitHub dark text color. Change to #c9d1d9 for dark mode */
-      opacity: 0; /* Start hidden */
-      animation: fadeIn 0.8s ease forwards;
+      fill: #24292e; /* Change to #c9d1d9 if your README is in Dark Mode */
     }
-
-    /* Stagger the animations with delays */
-    .item-1 { animation-delay: 0.5s; }
-    .item-2 { animation-delay: 1.5s; }
-    .item-3 { animation-delay: 2.5s; }
   </style>
 
-  <text x="10" y="30" class="bullet item-1">• This is my first awesome point</text>
-  <text x="10" y="70" class="bullet item-2">• Here comes the second point</text>
-  <text x="10" y="110" class="bullet item-3">• And the final animated point</text>
+  <use href="#spinning-bullet" transform="translate(10, 15) scale(0.2)" />
+  <text x="45" y="30" class="text-body">Programming Languages: C, C++, Python</text>
+
+  <use href="#spinning-bullet" transform="translate(10, 55) scale(0.2)" />
+  <text x="45" y="70" class="text-body">Web Technologies: HTML, CSS</text>
+
+  <use href="#spinning-bullet" transform="translate(10, 95) scale(0.2)" />
+  <text x="45" y="110" class="text-body">Core Studies: Algorithms, Data Structures, and Systems Architecture</text>
 </svg>
